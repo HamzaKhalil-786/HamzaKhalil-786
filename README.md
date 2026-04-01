@@ -27,6 +27,7 @@ const HamzaKhalil = {
 };
 
 console.log(HamzaKhalil);
+```
 🛠️ Technical & Creative Arsenal
 🌐 Frontend Development (Web & Mobile)
 ⚙️ Backend Development & Languages
