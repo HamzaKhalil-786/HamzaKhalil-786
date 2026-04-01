@@ -1,9 +1,9 @@
-# Hamza Khalil | Full-Stack Architect | UI/UX & Graphic Designer
+# 🚀 Hamza Khalil | Full-Stack Architect | UI/UX & Graphic Designer
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge](https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge)">
-  <img src="[https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge](https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge)">
-  <img src="[https://img.shields.io/badge/Creative-UI%2FUX%20%26%20Design-green?style=for-the-badge](https://img.shields.io/badge/Creative-UI%2FUX%20%26%20Design-green?style=for-the-badge)">
+  <img src="https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Creative-UI%2FUX%20%26%20Design-green?style=for-the-badge">
 </p>
 
 ---
@@ -27,9 +27,6 @@ const HamzaKhalil = {
 };
 
 console.log(HamzaKhalil);
-
-
-
 🛠️ Technical & Creative Arsenal
 🌐 Frontend Development (Web & Mobile)
 ⚙️ Backend Development & Languages
@@ -45,17 +42,17 @@ Video Editing: Creating dynamic and engaging video content.
 
 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaKhalil-786&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhalil-786&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHamzaKhalil-786%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Hamza's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHamzaKhalil-786%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" />
 </p>
 
 🤝 Let's Collaborate!
 <p align="left">
-<a href="https://www.youtube.com/@Starcast78" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Starcast78-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40Starcast78" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-Starcast78-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
 </a>
 <a href="mailto:randhawa56786@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" alt="Email"/>
 </a>
 </p>
 
