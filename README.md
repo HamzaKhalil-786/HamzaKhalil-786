@@ -1,41 +1,58 @@
-# 🚀 Hamza Khalil | Full-Stack Developer & Creative Designer
+#  Hamza Khalil | Full-Stack Architect | UI/UX & Graphic Designer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Role-Web%20%26%20App%20Dev-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Expertise-Graphic%20Design-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Creative-UI%2FUX%20%26%20Design-green?style=for-the-badge">
 </p>
 
 ---
 
-## 👨‍💻 Creative Developer Profile
+## The Developer & Designer Object
 
-```python
-class HamzaKhalil:
-    def __init__(self):
-        self.name = "Hamza Khalil"
-        self.role = "Full Stack Web & Mobile App Developer"
-        self.education = "BSCS - Virtual University of Pakistan"
-        self.skills = ["HTML/CSS", "JavaScript", "PHP", "Python", "Flutter"]
-        self.design_tools = ["Photoshop", "Illustrator", "After Effects", "Canva"]
+```javascript
+const HamzaKhalil = {
+  profile: {
+    name: "Hamza Khalil",
+    education: "BSCS - Virtual University of Pakistan",
+    focus: "Bridging the gap between robust backend systems and beautiful user interfaces."
+  },
+  roles: [
+    "Full-Stack Web Developer", 
+    "Mobile App Developer", 
+    "UI/UX Designer", 
+    "Graphic & Video Editor"
+  ],
+  superpower: "Delivering end-to-end digital solutions, from wireframing to deployment."
+🛠️ Technical & Creative Arsenal
+🌐 Frontend Development (Web & Mobile)
+⚙️ Backend Development & Languages
+📝 CMS & Web Builders
+Expertise in custom theme/plugin modifications and building dynamic websites fast and securely.
 
-    def current_focus(self):
-        return "Building 3D Web Experiences (Three.js) & Flutter Apps"
+🎨 Design & UI/UX Mastery
+UI/UX Design: Crafting intuitive, user-centered digital experiences and responsive layouts.
 
-    def mission(self):
-        print("Transforming complex ideas into clean, functional code and stunning visuals.")## Hi there 👋
+Graphic Design: Marketing & Branding, Logo Design, Business Cards, Flyers, and Banner Design.
 
-<!--
-**HamzaKhalil-786/HamzaKhalil-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Photo Magic: Advanced Photo Editing & Retouching, Color Grading & Correction, Mastery of Layers & Blending Modes.
 
-Here are some ideas to get you started:
+Video Editing: Creating dynamic and engaging video content.
+<p align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHAMZAKHALIL-78%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Hamza's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHAMZAKHALIL-78%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" />
+</p>
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40Starcast78" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-Starcast78-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
+</a>
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" alt="Email"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"From pixel-perfect designs to complex algorithms, I build digital experiences that make an impact."
+
+};
+
+console.log(HamzaKhalil);
