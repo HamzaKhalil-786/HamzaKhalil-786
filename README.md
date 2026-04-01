@@ -24,9 +24,6 @@ const HamzaKhalil = {
     "Graphic & Video Editor"
   ],
   superpower: "Delivering end-to-end digital solutions, from wireframing to deployment."
-};
-
-console.log(HamzaKhalil);
 🛠️ Technical & Creative Arsenal
 🌐 Frontend Development (Web & Mobile)
 ⚙️ Backend Development & Languages
@@ -59,3 +56,6 @@ Video Editing: Creating dynamic and engaging video content.
 </p>
 
 "From pixel-perfect designs to complex algorithms, I build digital experiences that make an impact."
+};
+
+console.log(HamzaKhalil);
