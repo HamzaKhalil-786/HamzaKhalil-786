@@ -1,4 +1,4 @@
-# 🚀 Hamza Khalil | Full-Stack Architect | UI/UX & Graphic Designer
+# Hamza Khalil | Full-Stack Architect | UI/UX & Graphic Designer
 
 <p align="center">
   <img src="[https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge](https://img.shields.io/badge/Degree-BSCS%20Virtual%20University-blue?style=for-the-badge)">
@@ -27,3 +27,36 @@ const HamzaKhalil = {
 };
 
 console.log(HamzaKhalil);
+
+
+
+🛠️ Technical & Creative Arsenal
+🌐 Frontend Development (Web & Mobile)
+⚙️ Backend Development & Languages
+📝 CMS & Web Builders
+🎨 Design & UI/UX Mastery
+UI/UX Design: Crafting intuitive, user-centered digital experiences and responsive layouts.
+
+Graphic Design: Marketing & Branding, Logo Design, Business Cards, Flyers, and Banner Design.
+
+Photo Magic: Advanced Photo Editing & Retouching, Color Grading & Correction, Mastery of Layers & Blending Modes.
+
+Video Editing: Creating dynamic and engaging video content.
+
+📊 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaKhalil-786&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhalil-786&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+🤝 Let's Collaborate!
+<p align="left">
+<a href="https://www.youtube.com/@Starcast78" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Starcast78-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:randhawa56786@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+"From pixel-perfect designs to complex algorithms, I build digital experiences that make an impact."
