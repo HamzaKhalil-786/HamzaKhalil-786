@@ -49,13 +49,11 @@ Video Editing: Creating dynamic and engaging video content.
 </p>
 
 🤝 Let's Collaborate!
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.youtube.com/%40Starcast78" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-Starcast78-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
+<a href="https://www.youtube.com/@Starcast78" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Starcast78-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="mailto:randhawa56786@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</p>
 
+<a href="mailto:randhawa56786@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
 "From pixel-perfect designs to complex algorithms, I build digital experiences that make an impact."
