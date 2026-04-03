@@ -43,7 +43,7 @@ Video Editing: Creating dynamic and engaging video content.
 
 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhalil-786&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhalil-786&show_icons=true&theme=tokyonight" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhalil-786&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
